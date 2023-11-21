@@ -1,7 +1,6 @@
 # excel_data_api_django
 
 ## How to run
-## ------------------------------------------------
 ## pip install virtualenv
 ## virtualenv my_env_name
 ## virtualenv my_env_name to create a new environment
