@@ -1,4 +1,4 @@
-# excel_data_api_django
+# import_excel_data_to_api
 
 ## How to run
 ## pip install virtualenv
